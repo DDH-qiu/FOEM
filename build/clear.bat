@@ -1,1 +1,0 @@
-del *.aux *.log *.out *.pdf *.toc *.bbl *.synctex
